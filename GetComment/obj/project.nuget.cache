@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XXi0SJ603veuCdiRAUeBbY+mvDsGxw3LFklEepEET1ldayZs2EEqtKO45KZIrzWOs9khxd1hx+omtTOFxZCNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\honor magicbook\\Desktop\\GetComment\\GetComment\\GetComment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\honor magicbook\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\honor magicbook\\.nuget\\packages\\microsoft.codeanalysis.common\\4.8.0\\microsoft.codeanalysis.common.4.8.0.nupkg.sha512",
+    "C:\\Users\\honor magicbook\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.8.0\\microsoft.codeanalysis.csharp.4.8.0.nupkg.sha512",
+    "C:\\Users\\honor magicbook\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\honor magicbook\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
+    "C:\\Users\\honor magicbook\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
